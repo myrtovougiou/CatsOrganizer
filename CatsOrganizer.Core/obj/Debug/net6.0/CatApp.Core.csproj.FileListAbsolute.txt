@@ -1,0 +1,14 @@
+C:\Dev\CatApp\CatApp.Core\bin\Debug\net6.0\CatApp.Core.deps.json
+C:\Dev\CatApp\CatApp.Core\bin\Debug\net6.0\CatApp.Core.dll
+C:\Dev\CatApp\CatApp.Core\bin\Debug\net6.0\CatApp.Core.pdb
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.csproj.AssemblyReference.cache
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.AssemblyInfoInputs.cache
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.AssemblyInfo.cs
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.csproj.CoreCompileInputs.cache
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.dll
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\refint\CatApp.Core.dll
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.pdb
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\ref\CatApp.Core.dll
+C:\Dev\CatApp\CatApp.Core\bin\Debug\net6.0\CatApp.Core.runtimeconfig.json
+C:\Dev\CatApp\CatApp.Core\obj\Debug\net6.0\CatApp.Core.genruntimeconfig.cache
